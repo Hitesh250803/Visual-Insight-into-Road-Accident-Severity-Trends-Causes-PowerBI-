@@ -34,8 +34,8 @@ General Public – To raise awareness about accident-prone conditions and region
 
 
 🖼 Screenshot : Attach Below 
+![Visual Insight into Road Accident Severity, Trends   Causes of UK (PowerBI)](https://github.com/user-attachments/assets/99722cc5-80fe-4888-992f-285951a84b28)
 
-![HR Analystics and Attriton Dashboard(Power BI)](https://github.com/user-attachments/assets/2d903d6f-cc83-401b-a74d-0c56773dad17)
 
 
 📁 Please find the project file (`.pbix`), dataset (`.csv`), and dashboard screenshot with Background Image included in this repository.
